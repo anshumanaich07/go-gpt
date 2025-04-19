@@ -1,0 +1,16 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "go-gpt",
+  "outputfilename": "go-gpt",
+  "frontend:install": "npm install",
+  "frontend:build": "npm run build",
+  "frontend:dev:watcher": "npm run dev",
+  "frontend:dev:serverUrl": "auto",
+  "author": {
+    "name": "Anshuman Aich",
+    "email": "anshumanaich99@gmail.com"
+  },
+  "frontend:dir": "internal/ui/frontend",
+  "backend:dir": ".",
+  "build": {"platform": "desktop"}
+}
