@@ -3,8 +3,8 @@ To build a local ChatGPT like desktop app. This will leverage the ollama running
 
 
 ### Technologies
-* Backend: Golang
-* Frontend: Need to be decided
+* Backend: Golang for services. Wails for display
+* Frontend: UI framework needs to be decided!
 * App type: Desktop
 * AI model: llama3
 * Ollama running locally
