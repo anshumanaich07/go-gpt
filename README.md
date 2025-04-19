@@ -1,9 +1,10 @@
 ## Goals
-To build a local ChatGPT. This will leverage the ollama running locally.
+To build a local ChatGPT like desktop app. This will leverage the ollama running locally.
 
 
 ### Technologies
 * Backend: Golang
+* Frontend: Need to be decided
 * App type: Desktop
 * AI model: llama3
 * Ollama running locally
